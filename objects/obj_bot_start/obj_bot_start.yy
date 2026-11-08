@@ -8,8 +8,8 @@
   "name":"obj_bot_start",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"controles",
+    "path":"folders/Objetos/controles.yy",
   },
   "parentObjectId":null,
   "persistent":false,
